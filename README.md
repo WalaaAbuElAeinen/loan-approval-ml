@@ -56,4 +56,6 @@ streamlit run app.py
 ngrok http 8501
 pip install -r requirements.txt
 
+🔗 [View Full Google Colab Notebook](https://colab.research.google.com/drive/1oQZLNxddXA1jnpIAx9MgJG4QEnrG77n1?usp=sharing)
+
 
