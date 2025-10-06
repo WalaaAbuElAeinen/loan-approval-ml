@@ -1,3 +1,5 @@
+![Loan Approval App Preview](preview.png)
+
 # Loan Approval Prediction — Machine Learning in Action
 
 ## Overview
@@ -53,4 +55,5 @@ streamlit run app.py
 
 ngrok http 8501
 pip install -r requirements.txt
+
 
