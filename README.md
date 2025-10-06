@@ -2,6 +2,8 @@
 
 # Loan Approval Prediction — Machine Learning in Action
 
+🔗 [View Full Google Colab Notebook](https://colab.research.google.com/drive/1oQZLNxddXA1jnpIAx9MgJG4QEnrG77n1?usp=sharing)
+
 ## Overview
 This project predicts whether a loan application will be approved or rejected using Machine Learning models — **Logistic Regression** and **Random Forest Classifier** — and an interactive **Streamlit app** deployed via **ngrok**.
 
@@ -56,6 +58,5 @@ streamlit run app.py
 ngrok http 8501
 pip install -r requirements.txt
 
-🔗 [View Full Google Colab Notebook](https://colab.research.google.com/drive/1oQZLNxddXA1jnpIAx9MgJG4QEnrG77n1?usp=sharing)
 
 
